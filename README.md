@@ -1,2 +1,2 @@
 # St-DIO
-Conteúdo de BootCamps e desafios provenientes de DIO.
+Conteúdo relacionado a bootcamps e desafios provenientes de DIO.
